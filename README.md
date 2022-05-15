@@ -1,3 +1,14 @@
+# Helpy
+
+
+
+An software solution for differently abled persons.
+__________________________
+ 
+
+
+
+
 # Real-time object detection application
 
 Web application for _real-time_ object detection on video streaming via web browser.
